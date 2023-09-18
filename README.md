@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.licdn.com/dms/image/C4E12AQGWDa_XbOTxug/article-cover_image-shrink_720_1280/0/1556594678268?e=2147483647&v=beta&t=t7ufyI6nzPRhcTg0Uca8AaPSyA9uubgrgRKJseuIniU](https://www.nokia.com/sites/default/files/styles/nokia_blog_page_image/public/blog/nokia-analytics-banner.jpg))]
+[![MasterHead](https://www.oho.co.uk/uploads/guide-to-machine-learning-and-ai.jpg)
 <h1 align="center">Hi 👋, I'm Abhishek Chatterjee</h1>
 <h3 align="center">A passionate data science programmer and coder from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQGaLgjCkMn0dVhXdOHxPKMnA1qNZBevyM2k27P5swbblHkr5-0ncLvhWEEvT4YmyAaA&usqp=CAU">
